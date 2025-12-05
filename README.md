@@ -1,4 +1,4 @@
-# AI-Resume-Screener: Smart-Classification-and-Shortlisting-System
+# AI Resume Screener: Smart Classification and Shortlisting System
 A Python ML project using NLP and a Tkinter GUI to parse PDF resumes and predict candidate shortlisting.
 
 This project is an end-to-end application designed to automate the initial job screening process. It uses a Machine Learning model to classify candidate resumes as **"Shortlisted"** or **"Rejected"** based on a predefined set of criteria.
